@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @adrish26
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning Python
-- 📫 Reach me through YouTube
+- 🌱 I’m currently learning JS
 
 <!---
 adrish26/adrish26 is a ✨ unique ✨ repository because its `README.md` (this file) appears on your GitHub profile.
