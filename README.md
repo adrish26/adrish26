@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @adrish26
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning NextJS
+- 🌱 I’m currently learning Data Science
 
 <!---
 adrish26/adrish26 is a ✨ unique ✨ repository because its `README.md` (this file) appears on your GitHub profile.
